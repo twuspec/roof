@@ -1,0 +1,55 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\twu\Documents\projects\python2\roof
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=0f3e672ee36c7ee8c248e3434a8b2a02f1bba24d8f1d7724
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=0f3e672ee36c7ee8c248e3434a8b2a02f1bba24d8f1d7724
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating 'C:\Users\twu\Documents\projects\python2\roof\Untitled.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 6bdcb327-6d62-4f8b-8f7c-6791bee48bf9:459637f0dd864b26895c5d2b4c93684f
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 6a026475-b1f6-4bb3-9ede-314af13cb318
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6a026475-b1f6-4bb3-9ede-314af13cb318
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
+[NotebookApp | INFO] Saving file at /Untitled1.ipynb
